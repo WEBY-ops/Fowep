@@ -164,8 +164,11 @@
     }
     
    .nav{
-    display: none;
+    display: block;
    }
+
+.navbar{
+display: none;
   
      .back{
     animation: slide 20s infinite;
